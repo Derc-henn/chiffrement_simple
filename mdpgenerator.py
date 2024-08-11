@@ -7,6 +7,10 @@ Created on Sun Aug 11 08:43:51 2024
 @author: Derc'henn
 """
 
+# On peut complexifier encore plus :
+#     mélanger les lettres dans alphanums, 
+#     changer l'ordre des rajouts dans resultat (avant ou après), etc etc 
+
 alphanums = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
 
 symbols = "@!#$%?"
